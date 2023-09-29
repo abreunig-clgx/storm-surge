@@ -1,0 +1,22 @@
+*.gdb
+*.aprx
+*.atbx
+*.tbx
+*.tif
+*.tif.aux.xml
+*.tif.ovr
+*.tif.xml
+*.tfw
+*.tif.vat.cpg
+*.tif.vat.dbf
+*.lock
+
+# ignore shapefiles
+*.shp
+*.shx
+*.dbf
+*.prj
+*.sbn
+*.sbx
+
+
