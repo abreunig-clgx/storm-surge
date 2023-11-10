@@ -13,11 +13,41 @@
 
 # ignore shapefiles
 *.shp
+*.shp.xml
 *.shx
 *.dbf
 *.prj
 *.sbn
 *.sbx
-
+*.shp
 *.rtx
+*.gstmp
+*.glf
+*.log
+*.config
+*.cmd
+*.zip
+*.exe
+*.dll
+*.so
+*.dylib
+*.egg-info
+*.egg
+*.egg-info
+*.pyc
+*.txt
+*.cpg
+*.llf
+*.xml
+
+ss-output_2021_02/
+
+ss-output_2020_1/
+
+# Index
+*.cfe
+*.cfs
+*.si
+*segments_2*
+*.gen
 
